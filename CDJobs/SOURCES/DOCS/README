@@ -1,0 +1,2 @@
+# invoke client script against cdjobs server:
+python3 client.py

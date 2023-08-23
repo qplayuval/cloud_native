@@ -1,7 +1,7 @@
 import tempfile
 import requests
 from fastapi import FastAPI
-#from kubernetes import client,config,utils
+from kubernetes import client,config,utils
 
 app = FastAPI()
 

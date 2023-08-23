@@ -1,0 +1,4 @@
+# install cdjobs package:
+pip3.10 install --user  --no-cache-dir -v --no-index .
+# uninstall cdjobs package: 
+pip3.10 uninstall --user cdjobs
